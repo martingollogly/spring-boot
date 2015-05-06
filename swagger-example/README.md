@@ -1,11 +1,11 @@
-##Swagger & Spring MVC JAX-RS Web Service Example
+#Swagger & Spring MVC JAX-RS Web Service Example
 
-
+## Running
 `mvn spring-boot:run`
 
 Goto http://localhost/dist/index.html
 
-#Requires
+##Requires
 
 ####Apache web server Conf
 
