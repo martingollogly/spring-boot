@@ -1,3 +1,7 @@
 # spring-boot
 
-Info to go here
+Spring Boot Example Apps using
+
+*swagger
+
+
