@@ -9,5 +9,6 @@ Got to http://localhost/dist/index.html
 
 ##Apache web server
 
-`ProxyPass / http://localhost:8080/`
-`ProxyPassReverse / http://localhost:8080/`
+* `ProxyPass / http://localhost:8080/`
+
+* `ProxyPassReverse / http://localhost:8080/`
