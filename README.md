@@ -2,6 +2,6 @@
 
 Spring Boot Example Apps using
 
-*swagger
+* swagger
 
 
