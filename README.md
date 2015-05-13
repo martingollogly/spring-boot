@@ -14,4 +14,5 @@ Thanks to https://travis-ci.org
 ##Later
 
 * selenium
+* Rest-assured
 
