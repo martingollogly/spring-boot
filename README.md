@@ -13,6 +13,6 @@ Thanks to https://travis-ci.org
 
 ##Later
 
-* selenium
-* Rest-assured
+* selenium (http://www.seleniumhq.org/)
+* rest-assured (https://code.google.com/p/rest-assured/)
 
