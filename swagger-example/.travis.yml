@@ -5,4 +5,3 @@ jdk:
   - openjdk7
   - openjdk6
   
-  script: ./script/ci/run_build.sh
