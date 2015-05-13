@@ -2,4 +2,4 @@ language: java
 
 script: 
   - cd swagger-example
-  - mvn clean isntall
+  - mvn clean install
