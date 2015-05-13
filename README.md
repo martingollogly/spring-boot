@@ -8,7 +8,8 @@ Spring Boot Example Apps using
 
 ## Master Build Status
 <a href='https://travis-ci.org/martingollogly/spring-boot/builds'><img src='https://travis-ci.org/martingollogly/spring-boot.svg?branch=master'></a>
-<a href='https://travis-ci.org/ReactiveX/RxJava/builds'><img src='https://travis-ci.org/ReactiveX/RxJava.svg?branch=1.x'></a>
+
+Thanks to https://travis-ci.org
 
 ##Later
 
