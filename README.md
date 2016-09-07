@@ -8,8 +8,7 @@ Spring Boot Example Apps using
 
 ## Master Build Status
 <a href='https://travis-ci.org/martingollogly/spring-boot/builds'><img src='https://travis-ci.org/martingollogly/spring-boot.svg?branch=master'></a>
-
-Thanks to https://travis-ci.org
+<a target="_blank" href="https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Development-Status"><img src="https://img.shields.io/badge/Development-ALPHA-blue.svg"></a>
 
 ##Later
 
