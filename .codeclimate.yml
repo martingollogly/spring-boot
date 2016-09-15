@@ -1,0 +1,11 @@
+engines:
+  shellcheck:
+    enabled: true
+  duplication:
+    enabled: true
+ratings:
+   paths:
+   - "swagger-example/**"
+   
+   exclude_paths:
+- swagger-example/src/main/resources/static/dist/lib/
