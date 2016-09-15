@@ -6,6 +6,7 @@ engines:
 ratings:
    paths:
    - "swagger-example/**"
+   - "async-support-example/**"
    
    exclude_paths:
 - swagger-example/src/main/resources/static/dist/lib/
