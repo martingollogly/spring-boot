@@ -6,6 +6,7 @@ jdk:
 script: 
   - cd swagger-example
   - mvn clean install
+  - mvn test
 
 after_success:
    - mvn org.eluder.coveralls:coveralls-maven-plugin:report
