@@ -10,6 +10,8 @@ Spring Boot Example Apps using
 <a href='https://travis-ci.org/martingollogly/spring-boot/builds'><img src='https://travis-ci.org/martingollogly/spring-boot.svg?branch=master'></a>
 <a target="_blank" href="https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Development-Status"><img src="https://img.shields.io/badge/Development-ALPHA-blue.svg"></a>
 <a href="https://codeclimate.com/github/martingollogly/spring-boot"><img src="https://codeclimate.com/github/martingollogly/spring-boot/badges/gpa.svg" /></a>
+<a href='https://coveralls.io/github/martingollogly/spring-boot?branch=master'><img src='https://coveralls.io/repos/github/martingollogly/spring-boot/badge.svg?branch=master' alt='Coverage Status' /></a>
+
 ##Later
 
 * selenium (http://www.seleniumhq.org/)
